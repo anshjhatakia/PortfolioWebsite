@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "ansh"
+title = "Ansh's Portfolio"
 languageCode = "en-us"
 baseURL = ""
 copyright = "© {2021}"
