@@ -10,9 +10,9 @@ media_folder: "resources/_gen/images"
 public_folder: "resources/_gen/images"
 
 collections:
-  - name: "coding"
-    label: "Coding"
-    folder: "content/blog"
+  - name: "projects"
+    label: "projects"
+    folder: "content/projects"
     create: true
     slug: "{{year}}-{{slug}}"
     fields: 
