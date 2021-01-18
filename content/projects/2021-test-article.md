@@ -1,7 +1,7 @@
 ---
 title: Test Article
 date: 2021-01-18T04:18:53.641Z
-draft: true
+draft: false
 categories: Podcast
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
