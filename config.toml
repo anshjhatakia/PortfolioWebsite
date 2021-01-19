@@ -1,3 +1,6 @@
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
 # DO NOT REMOVE THIS
 theme = "hugo-theme-codex" 
 
@@ -5,7 +8,7 @@ theme = "hugo-theme-codex"
 title = "Ansh's Portfolio"
 languageCode = "en-us"
 baseURL = ""
-copyright = "© {2021}"
+copyright = "© Ansh Jhatakia 2021"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
