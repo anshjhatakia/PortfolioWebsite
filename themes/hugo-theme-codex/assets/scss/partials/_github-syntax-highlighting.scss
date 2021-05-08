@@ -62,8 +62,8 @@ pre[class*="language-"] {
 }
 
 .language-jsx .token.tag .token.attr-name {
-  //color: #6f42c1;
-  color: #ff0000;
+  color: #6f42c1;
+  //color: #ff0000;
 }
 
 .language-jsx .token.tag .token.class-name {
@@ -89,7 +89,8 @@ pre[class*="language-"] {
 }
 
 .language-html .token.tag .token.attr-name {
-  color: #a077ec;
+  //color: #a077ec;
+  color: #ff0000;
 }
 
 .language-html .token.tag .token.attr-value,
