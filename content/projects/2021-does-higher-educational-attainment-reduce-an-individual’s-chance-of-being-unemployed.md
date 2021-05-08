@@ -6,6 +6,8 @@ draft: true
 categories: Podcast
 tags:
   - STATA
+  - Excel
+  - LaTeX
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
 comments: true
