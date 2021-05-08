@@ -2,7 +2,7 @@
 title: Does higher educational attainment reduce an individual’s chance of being
   unemployed?
 date: 2021-05-08T19:21:40.917Z
-draft: true
+draft: false
 categories: Podcast
 tags:
   - STATA
