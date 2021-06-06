@@ -30,18 +30,12 @@ To answer these questions, I found and created the necessary datasets, cleaned t
 
 To measure interest through internet searches, I used Google’s Trends Tool. I acquired data for the keywords “the queens gambit” and “chess”. The first step was to make sure that interest in these two keywords has similar growth patterns. Doing this would help me determine if there was a meaningful connection between the game and the show.
 
-![](/images/uploads/screen-shot-2021-06-06-at-1.45.21-pm.png)
+![](/images/uploads/goodsc.png)
 
 Before the show’s release, the average search interest indices in 2020 were 51.2 for “chess” and .93 for The Queen’s Gambit”. Significant increases in interest began around October 23rd, 2020, the Show’s release date. Within a month after release, the search interest index for “chess” and “the queens gambit” reached a maximum of 100. However, “the queens gambit” reached an interest index of 100 within a week of the Show’s release while “chess” took approximately a month to reach the same level of interest. 
 
-
-
 While “the queens gambit” was about four times faster to reach maximum interest than “chess” was, interest in “the queens gambit” rapidly decreased between November and the end of December driving down the average interest index to 65.6. In this same period, “chess” maintained an average interest index of 87.2. By the end of December, “the queens gambit” had an interest index of 43 while “chess” maintained an interest index of 100.
 
- 
-
 These trends are mostly expected. Once individuals watch The Queen’s Gambit, they might move on to different shows, which would decrease the interest index. However, if they developed an interest in chess, they would likely keep coming back to the game, meaning that the interest index would remain high. In other words, individuals might not repeatedly watch The Queen's Gambit, but may repeatedly play games of chess. 
-
- 
 
 Next, I wanted to confirm that interest in the keywords came from similar regions. Doing this allowed me to confirm that the spike in chess' interest didn’t come from a country that had no interest in the show. If increases in interest for chess came from regions that didn’t have much interest in the show, it would suggest that something other than the release of the show was increasing interest in chess.
