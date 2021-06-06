@@ -1,10 +1,8 @@
 ---
-title: Did The Queen's Gambit increase interest in Chess?
-date: 2021-01-18T20:57:31.958Z
+title: "This is a test "
+date: 2021-06-06T20:02:51.660Z
 draft: true
 categories: Podcast
-tags:
-  - Tableau
 author: Chris Stayte
 authorImage: uploads/chrisstayte_profilepic.jpg
 comments: true
