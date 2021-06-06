@@ -1,7 +1,7 @@
 ---
 title: Did The Queen's Gambit increase interest in Chess?
 date: 2021-01-18T22:11:23.120Z
-draft: true
+draft: false
 categories: Podcast
 tags:
   - Tableau
